@@ -1,7 +1,7 @@
 2-3-4-Tree
 ==========
 
-According to Wikipedia, 2-3-4 trees are self-balancing data structure that is commonly used to implement dictionaries. 2-3-4 tress are B-trees of order 4.
+According to Wikipedia, 2-3-4 trees are self-balancing data structure that is commonly used to implement dictionaries. 2-3-4 trees are B-trees of order 4.
 
 For more information, visit http://en.wikipedia.org/wiki/2–3–4_tree.
 
